@@ -1,5 +1,6 @@
 <h1 align="center">Sky Delivery App</h1>
 <p align="center">
+    <img src="/src/assets/logo.png" alt="logo" width="200"><br>
     <img src="http://img.shields.io/badge/status-finalizado-brightgreen?style=for-the-badge" alt="Status">
 </p>
 
@@ -21,13 +22,13 @@ Entregável da GS 2 de _Advanced Programming & Mobile Dev_, professor:
 ## Sobre :book:
 
 <p align="justify">
-    A atividade consiste em criar um app mobile do tema da global solution <i>Smart Mobility for a Better Tomorrow</i> sobre uma empresa de drones que fornecem serviços de delivery para clientes de empresa ou consumidor, com o app para administrar e gerenciar as entregas de drone.
+    A atividade consiste em criar um app mobile do tema da global solution <i>Smart Mobility for a Better Tomorrow</i> sobre uma empresa de drones que fornecem serviços de delivery para clientes de empresa ou consumidor, com o app para administrar e gerenciar as entregas do drone.
 </p>
 <p align="center">
     <a href="https://reactnative.dev" target="_blank">
         <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     </a>
     <a href="https://code.visualstudio.com" target="_blank">
